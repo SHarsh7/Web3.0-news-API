@@ -1,0 +1,17 @@
+{
+  "name": "web3.0-api",
+  "version": "1.0.0",
+  "description": "This api will fetch you all the recent news about web3.0 from around the world and from verious news portals too. It includes all the apllication of blockchain starting from crypto to medical apllications. All relevent information will be there for you to utilize.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Harsh Sheth",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
